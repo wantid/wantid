@@ -6,7 +6,7 @@
 
 ## 📋 About me
 
-I really ✨**LIKE**✨ computer games and like to find out how are they built...
+I really ✨**LOVE**✨ computer games and like finding out how are they built...
 
 - 🔭 I’m currently working on game about bum (Vanilla Bomj Simulator - "VBS") - [Telegram]
 - 🤔 I’m looking for help with sound design for VBS
