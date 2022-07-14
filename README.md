@@ -1,14 +1,14 @@
 <p align="center">
-	<img src="#">
+	<img width="15%" src="/kavo.png">
 	<br />
-	<sup>Hey, that's me m....<sup>
+	<sup>Hey, that's me - m....<sup>
 </p>
 
 ## 📋 About me
 
 I really ✨**LIKE**✨ computer games and like to find out how are they built...
 
-- 🔭 I’m currently working on game about bum (Vanila Bomj Simulator - "VBS") - [Telegram]
+- 🔭 I’m currently working on game about bum (Vanilla Bomj Simulator - "VBS") - [Telegram]
 - 🤔 I’m looking for help with sound design for VBS
 - 💬 Ask me about anything
 
