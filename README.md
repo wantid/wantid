@@ -19,4 +19,7 @@ I really ✨**LOVE**✨ computer games and like finding out how are they built..
 <br />
 <a href="mailto:mrwantid@gmail.com"><img src="https://img.shields.io/badge/-mrwantid@gmail.com-000?&logo=Gmail" alt="Main email"></a>
 
+And also you can find me on [Instagram], there are plenty of media materials about my old projects.
+		
 [Telegram]: https://t.me/exeersitus
+[Instagram]: https://www.instagram.com/wantidos
