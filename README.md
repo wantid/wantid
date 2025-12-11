@@ -43,7 +43,3 @@ I specialize in creating scalable solutions, process automation, and user interf
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wantid&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![Dmitriy profile views](https://u8views.com/api/v1/github/profiles/107065129/views/day-week-month-total-count.svg)](https://u8views.com/github/wantid)
-
----
-
-<p align="center">⚡ Building scalable solutions with passion and precision ⚡</p>
