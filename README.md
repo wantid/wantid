@@ -18,4 +18,4 @@ I really ✨LOVE✨ computer games and like finding out how are they built...
 ![](https://nirzak-streak-stats.vercel.app/?user=Wantid&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wantid&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Dmitriy profile views](https://u8views.com/api/v1/github/profiles/107065129/views/day-week-month-total-count.svg)](https://u8views.com/github/wantid)
